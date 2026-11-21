@@ -1,0 +1,38 @@
+{
+  "name": "Hôm nay ăn gì? • Chốt kèo ăn uống Sài Gòn",
+  "short_name": "Ăn gì?",
+  "description": "0s đắn đo, chốt ngay quán ngon TP.HCM. Quẹt chọn quán 1 mình hoặc tạo phòng chốt kèo nhóm cùng bạn bè.",
+  "start_url": "/",
+  "id": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FAF7F2",
+  "theme_color": "#E84A27",
+  "lang": "vi",
+  "categories": ["food", "lifestyle"],
+  "icons": [
+    {
+      "src": "/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
